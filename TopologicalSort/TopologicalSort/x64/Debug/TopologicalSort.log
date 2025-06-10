@@ -1,0 +1,6 @@
+﻿  Graph.cpp
+C:\ИТИС\учеба\прога\TopologicalSort\Graph.cpp(11,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Main.cpp
+  Printer.cpp
+  Создание кода...
+  TopologicalSort.vcxproj -> C:\ИТИС\учеба\прога\TopologicalSort\x64\Debug\TopologicalSort.exe
